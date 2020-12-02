@@ -1,0 +1,5 @@
+body {
+    background: cornsilk url("images/cat1.png") no-repeat;
+    background-position: right top;
+    background-size: 400px;
+}
